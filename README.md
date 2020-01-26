@@ -1,6 +1,6 @@
 Ce dépôt s'adresse aux enseignants français en charge de l'enseignement, dans un lycée d'enseignement général, de la spécialité "Numérique et Sciences Informatiques".
 
-Il comporte deux activités d'apprentissages destinées à des élèves de niveau "Première", sur la fusion de tables par concaténation, qui s'inscrit dans la partie du programme officiel intitulée "Traitement de données en tables".
+Il comporte deux activités d'apprentissage destinées à des élèves de niveau "Première", sur la fusion de tables par concaténation, qui s'inscrivent dans la partie du programme officiel intitulée "Traitement de données en tables".
 
 Les ressources sont les suivantes : 
  * deux fichiers de type "notebook" - 4_1_FusionTablesConcaténation_1.ipynb et - 4_1_FusionTablesConcaténation_2.ipynb créé avec GoogleColaboratory
