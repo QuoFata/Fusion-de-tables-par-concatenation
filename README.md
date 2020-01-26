@@ -4,6 +4,6 @@ Les ressources sont les suivantes :
  * un fichier de type "notebook" - 4_1_FusionTablesConcaténation_1.ipynb - créé avec GoogleColaboratory
  * deux fichiers de type "csv" - prenoms-des-enfants-nes-a-angers-2013-2018.csv et prenoms-des-enfants-nes-a-angers-2019.csv
  
- Le notebook est accessible à cette URL : https://colab.research.google.com/drive/1_ad7lZRTXaOFvW9cSYt80XXx6-NpLdyi
+URL Google Colaboratory : https://colab.research.google.com/notebooks/intro.ipynb
  
 Commentaires et propositions d'amélioration constructives sont les bienvenues !
